@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Map">
+      <UniqueIdentifier>{7e90cf83-cf8f-48f0-b4d2-8e537a47e423}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Map\Interactables">
+      <UniqueIdentifier>{5b46f238-040b-401a-907c-00a68293582e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Battle">
+      <UniqueIdentifier>{f88b3f39-06f3-4ace-bee8-457db811ecff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Battle\Battle Components">
+      <UniqueIdentifier>{ac900210-0fff-4ca9-bc91-abcad26a0145}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Battle\Discs">
+      <UniqueIdentifier>{d713cede-8c70-4fac-b02a-9dfea7e95bcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Battle\Effects">
+      <UniqueIdentifier>{5a1d5383-7467-46b6-979f-0087a17aa78c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Battle\GUI">
+      <UniqueIdentifier>{a8b38281-4024-410f-a292-61a52aaef905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Battle\Moves">
+      <UniqueIdentifier>{5ac4b95e-af61-4a65-ace2-1983372bc6cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Inventory">
+      <UniqueIdentifier>{ecec7de4-1dcf-4688-8104-6e450c1e1a23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Inventory\Items">
+      <UniqueIdentifier>{dc185121-efe0-4c71-b4a5-ea0acc1ef10d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Inventory\GUI">
+      <UniqueIdentifier>{13dd9744-5ea4-4d88-ae11-cf4afc09418c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Chest.h">
+      <Filter>Header Files\Map\Interactables</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>Header Files\Map\Interactables</Filter>
+    </ClInclude>
+    <ClInclude Include="EncounterSpace.h">
+      <Filter>Header Files\Map\Interactables</Filter>
+    </ClInclude>
+    <ClInclude Include="Stairs.h">
+      <Filter>Header Files\Map\Interactables</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Header Files\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="MapPlayer.h">
+      <Filter>Header Files\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Header Files\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Move.h">
+      <Filter>Header Files\Battle\Battle Components</Filter>
+    </ClInclude>
+    <ClInclude Include="StatChange.h">
+      <Filter>Header Files\Battle\Battle Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Disc.h">
+      <Filter>Header Files\Battle\Discs</Filter>
+    </ClInclude>
+    <ClInclude Include="AttackDisc.h">
+      <Filter>Header Files\Battle\Discs</Filter>
+    </ClInclude>
+    <ClInclude Include="DefenseDisc.h">
+      <Filter>Header Files\Battle\Discs</Filter>
+    </ClInclude>
+    <ClInclude Include="MagicDisc.h">
+      <Filter>Header Files\Battle\Discs</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>Header Files\Battle\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectHandler.h">
+      <Filter>Header Files\Battle\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files\Battle\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceBar.h">
+      <Filter>Header Files\Battle\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="VoidIntButton.h">
+      <Filter>Header Files\Battle\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="VoidIntGButton.h">
+      <Filter>Header Files\Battle\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files\Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleMove.h">
+      <Filter>Header Files\Battle\Moves</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemMove.h">
+      <Filter>Header Files\Battle\Moves</Filter>
+    </ClInclude>
+    <ClInclude Include="Battle.h">
+      <Filter>Header Files\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleGraphics.h">
+      <Filter>Header Files\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleManager.h">
+      <Filter>Header Files\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleStats.h">
+      <Filter>Header Files\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="TextSpawn.h">
+      <Filter>Header Files\Battle\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUISwitchButton.h">
+      <Filter>Header Files\Battle\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Header Files\Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="MedicineItem.h">
+      <Filter>Header Files\Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Equippable.h">
+      <Filter>Header Files\Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC.h">
+      <Filter>Header Files\Map\Interactables</Filter>
+    </ClInclude>
+    <ClInclude Include="InventoryGUI.h">
+      <Filter>Header Files\Inventory\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemView.h">
+      <Filter>Header Files\Inventory\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="MedInventoryGUI.h">
+      <Filter>Header Files\Inventory\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="EquipInventoryGUI.h">
+      <Filter>Header Files\Inventory\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleTrigger.h">
+      <Filter>Header Files\Map\Interactables</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Battle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleStats.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="To Do.txt">
+      <Filter>Header Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

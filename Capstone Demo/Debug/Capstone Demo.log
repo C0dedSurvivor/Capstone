@@ -1,0 +1,258 @@
+﻿  Renderer.cpp
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(47): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(54): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(65): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(46): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(53): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(64): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\inventorygui.h(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\inventorygui.h(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\inventorygui.h(46): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\inventorygui.h(53): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\inventorygui.h(64): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\chest.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(23): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\door.h(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\door.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\stairs.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\stairs.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(24): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\npc.h(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(32): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\npc.h(44): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\battletrigger.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\battletrigger.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\textspawn.h(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\textspawn.h(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\textspawn.h(27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\renderer.cpp(454): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\renderer.cpp(455): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\renderer.cpp(456): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\renderer.cpp(457): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\renderer.cpp(466): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\renderer.cpp(487): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\renderer.cpp(510): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\renderer.cpp(513): warning C4018: '<=': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\renderer.cpp(534): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\renderer.cpp(552): warning C4018: '<=': signed/unsigned mismatch
+  Player.cpp
+j:\cpp\capstone demo\capstone demo\defensedisc.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\defensedisc.h(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Map.cpp
+j:\cpp\capstone demo\capstone demo\chest.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(23): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\door.h(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\door.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\stairs.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\stairs.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(24): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\npc.h(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(32): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\npc.h(44): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\battletrigger.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\battletrigger.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\map.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\map.cpp(109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+j:\cpp\capstone demo\capstone demo\chest.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(23): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\door.h(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\door.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\stairs.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\stairs.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(24): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\npc.h(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(32): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\npc.h(44): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\battletrigger.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\battletrigger.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(47): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(54): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(65): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(46): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(53): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(64): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\inventorygui.h(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\inventorygui.h(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\inventorygui.h(46): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\inventorygui.h(53): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\inventorygui.h(64): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\textspawn.h(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\textspawn.h(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\textspawn.h(27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\button.h(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\button.h(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\button.h(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\guiswitchbutton.h(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\guiswitchbutton.h(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\defensedisc.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\defensedisc.h(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\move.h(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\move.h(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\move.h(86): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\battle.h(59): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\battle.h(70): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\voidintbutton.h(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\voidintbutton.h(18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\resourcebar.h(32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\resourcebar.h(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\resourcebar.h(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\voidintgbutton.h(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\voidintgbutton.h(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\battlemanager.h(199): warning C4018: '<': signed/unsigned mismatch
+  Inventory.cpp
+j:\cpp\capstone demo\capstone demo\inventory.cpp(30): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\inventory.cpp(72): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\inventory.cpp(123): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\inventory.cpp(153): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\inventory.cpp(156): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\inventory.cpp(159): warning C4018: '<': signed/unsigned mismatch
+  Game.cpp
+j:\cpp\capstone demo\capstone demo\chest.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\chest.h(23): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\door.h(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\door.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\stairs.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\stairs.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(24): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\npc.h(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\npc.h(32): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\npc.h(44): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\battletrigger.h(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\battletrigger.h(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(47): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(54): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\equipinventorygui.h(65): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(46): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(53): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\medinventorygui.h(64): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\inventorygui.h(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\inventorygui.h(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\inventorygui.h(46): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\inventorygui.h(53): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\inventorygui.h(64): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\textspawn.h(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\textspawn.h(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\textspawn.h(27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\button.h(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\button.h(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\button.h(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\guiswitchbutton.h(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\guiswitchbutton.h(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\defensedisc.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\defensedisc.h(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\move.h(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\move.h(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\move.h(86): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\battle.h(59): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\battle.h(70): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\voidintbutton.h(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\voidintbutton.h(18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\resourcebar.h(32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\resourcebar.h(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\resourcebar.h(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\voidintgbutton.h(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\voidintgbutton.h(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\cpp\capstone demo\capstone demo\battlemanager.h(199): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(119): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(166): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(172): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\game.cpp(183): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(189): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\game.cpp(200): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(206): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\game.cpp(217): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(223): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\game.cpp(236): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(251): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(266): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(281): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(298): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(313): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(328): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(343): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(418): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(433): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(448): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(463): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\game.cpp(743): warning C4018: '<': signed/unsigned mismatch
+  Enemy.cpp
+j:\cpp\capstone demo\capstone demo\enemy.cpp(22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\enemy.cpp(23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\enemy.cpp(24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\enemy.cpp(25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\enemy.cpp(26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  EffectHandler.cpp
+j:\cpp\capstone demo\capstone demo\effecthandler.cpp(10): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\effecthandler.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  BattleStats.cpp
+j:\cpp\capstone demo\capstone demo\battlestats.cpp(14): warning C4244: '+=': conversion from 'double' to 'std::ios_base::iostate', possible loss of data
+j:\cpp\capstone demo\capstone demo\battlestats.cpp(15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\battlestats.cpp(20): warning C4244: '+=': conversion from 'double' to 'std::ios_base::iostate', possible loss of data
+j:\cpp\capstone demo\capstone demo\battlestats.cpp(21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\battlestats.cpp(31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\battlestats.cpp(35): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\battlestats.cpp(36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\battlestats.cpp(46): warning C4244: '-=': conversion from 'double' to 'std::ios_base::iostate', possible loss of data
+  Battle.cpp
+j:\cpp\capstone demo\capstone demo\defensedisc.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\defensedisc.h(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\move.h(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\move.h(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\move.h(86): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+j:\cpp\capstone demo\capstone demo\battle.h(59): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\battle.h(70): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\battle.cpp(90): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\battle.cpp(92): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\battle.cpp(113): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\battle.cpp(132): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\battle.cpp(148): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\battle.cpp(219): warning C4018: '<': signed/unsigned mismatch
+j:\cpp\capstone demo\capstone demo\battle.cpp(232): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Capstone Demo.vcxproj -> J:\CPP\Capstone Demo\Debug\Capstone Demo.exe
+  Capstone Demo.vcxproj -> J:\CPP\Capstone Demo\Debug\Capstone Demo.pdb (Partial PDB)
